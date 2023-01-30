@@ -7,9 +7,10 @@
 
 import SwiftUI
 
-
+// Add to GitHub
 
 struct ContentView: View {
+    
     
     // Максимальное значение
     @State private var max = 0
